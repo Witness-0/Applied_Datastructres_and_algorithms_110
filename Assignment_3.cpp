@@ -1,3 +1,11 @@
+/*
+Problem 3: Trailing Zeroes.
+Statement: Given a number n. The task is to find the smallest number 
+whose factorial contains at least n trailing zeroes.
+
+Approach : Divide and Conquer 
+*/
+
 #include <iostream>
 using namespace std;
 
